@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_lOEM4IqzEe60XMvGqJWHIg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_lOEM4YqzEe60XMvGqJWHIg" comment="" name="insert_date" prompt="insert_date?" promptNeeded="false" repositoryContextId="built-in" type="id_Date" value="TalendDate.getDate(&quot;yyyy-MM-dd HH:mm:ss&quot;)"/>
+</talendfile:ContextType>
