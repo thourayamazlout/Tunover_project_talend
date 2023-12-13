@@ -105,6 +105,61 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_CSKJcJjyEe6eYpD9BHqj2w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_8-prEIngEe6QKZM0cE4vZw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_9T2GgI6XEe64xvUH4BINrQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_8-prEIngEe6QKZM0cE4vZw - ODS_employee",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9T2GgI6XEe64xvUH4BINrQ - DW_dim_degree",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9T2GgI6XEe64xvUH4BINrQ - DW_dim_function_type",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9T2GgI6XEe64xvUH4BINrQ - DW_dim_hiring_type",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9T2GgI6XEe64xvUH4BINrQ - DW_dim_performance_level",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9T2GgI6XEe64xvUH4BINrQ - DW_dim_position",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9T2GgI6XEe64xvUH4BINrQ - DW_dim_school",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9T2GgI6XEe64xvUH4BINrQ - DW_dim_seniority",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9T2GgI6XEe64xvUH4BINrQ - DW_dim_termination_reason",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9T2GgI6XEe64xvUH4BINrQ - DW_dim_termination_type",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_HfhIUIoOEe6nVovL0CGHuA",
     "version" : "0.1",
     "type" : "job"
@@ -154,6 +209,49 @@
     "id" : "_8-prEIngEe6QKZM0cE4vZw",
     "version" : "Latest",
     "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_NtHmIJjMEe6eYpD9BHqj2w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_8-prEIngEe6QKZM0cE4vZw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_9T2GgI6XEe64xvUH4BINrQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_8-prEIngEe6QKZM0cE4vZw - ODS_stagiaires",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9T2GgI6XEe64xvUH4BINrQ - DW_dim_degree",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9T2GgI6XEe64xvUH4BINrQ - DW_dim_domain",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9T2GgI6XEe64xvUH4BINrQ - DW_dim_internship_need",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9T2GgI6XEe64xvUH4BINrQ - DW_dim_internship_type",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9T2GgI6XEe64xvUH4BINrQ - DW_dim_recruitement_source",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_9T2GgI6XEe64xvUH4BINrQ - DW_dim_school",
+    "version" : "Latest",
+    "type" : "schema"
   } ]
 }, {
   "baseItem" : {
@@ -487,6 +585,29 @@
     "id" : "_8-prEIngEe6QKZM0cE4vZw - ODS_termination_type",
     "version" : "Latest",
     "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_kgVbQJQWEe6bqZYNfb8PWQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "PROJET_TURNOVER:_CSKJcJjyEe6eYpD9BHqj2w",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJET_TURNOVER:_NtHmIJjMEe6eYpD9BHqj2w",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJET_TURNOVER:_nJ6iEJQVEe6bqZYNfb8PWQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_9T2GgI6XEe64xvUH4BINrQ",
+    "version" : "Latest",
+    "type" : "property"
   } ]
 }, {
   "baseItem" : {
